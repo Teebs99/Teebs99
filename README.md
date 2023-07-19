@@ -1,6 +1,4 @@
 # Hi there 👋
-
-## About Me
 My name is Stephen and I am a back-end engineer!
 
 I write code in C#, Python, and Go, and love solving complex problems!
