@@ -7,14 +7,14 @@ I write code in C#, Python, and Go, and love solving complex problems!
 
 ## Profession Projects
 ---
-I am currently working on building [[https://www.relayfoundry.com/](Nostr products)] and building interactive blockchain products at [[veefriends.com](VeeFriends)]
+I am currently working on building [Nostr products](https://www.relayfoundry.com/) and building interactive blockchain products at [VeeFriends](veefriends.com) 
 
 ### Responsibilities
 #### VeeFriends
 - Write and manage our APIs and back-end systems.
 - Train interns on our system design and API patterns
 - Manage database and data
-- Implement and upgrade features for over 5 different products including our [[(https://meet.veefriends.com/)in-house video meeting], [[(https://veefriends.com/burn-island)NFT token burner], NFT token authentication system, and many others.
+- Implement and upgrade features for over 5 different products including our [in-house video meeting](https://meet.veefriends.com/), [NFT token burner](https://veefriends.com/burn-island), NFT token authentication system, and many others.
 
 #### RelayFoundry
 - Design and implement infrastructure
@@ -25,7 +25,7 @@ I am currently working on building [[https://www.relayfoundry.com/](Nostr produc
 
 ## Passion Projects
 ---
-I'm currently writing a code [[(https://github.com/Teebs99/Interpreter)Interpreter in Go], and starting [[(https://academy.hackthebox.com/preview/certifications/htb-certified-penetration-testing-specialist)HackTheBox's penetration testing certification].
+I'm currently writing a code [Interpreter in Go](https://github.com/Teebs99/Interpreter), and starting [HackTheBox's penetration testing certification](https://academy.hackthebox.com/preview/certifications/htb-certified-penetration-testing-specialist).
 
 
 
