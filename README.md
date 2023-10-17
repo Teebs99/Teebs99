@@ -3,7 +3,7 @@ My name is Stephen and I am a back-end engineer!
 
 I write code in C#, Python, and Go, and love solving complex problems!
 
-## Profession Projects
+## Professional Projects
 ---
 I am currently working on building [Nostr products](https://www.relayfoundry.com/) and building interactive blockchain products at [VeeFriends](veefriends.com) 
 
@@ -16,7 +16,7 @@ I am currently working on building [Nostr products](https://www.relayfoundry.com
 
 #### RelayFoundry
 - Design and implement infrastructure
-- Oversee and manage an offshore development team
+- Oversee and manage a small development team
 - Design product functionality
 - Deliver reports to CTO
 
