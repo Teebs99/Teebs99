@@ -23,7 +23,7 @@ I am currently working on building [Nostr products](https://www.relayfoundry.com
 
 ## Passion Projects
 ---
-I'm currently writing a code [Interpreter in Go](https://github.com/Teebs99/Interpreter), and starting [HackTheBox's penetration testing certification](https://academy.hackthebox.com/preview/certifications/htb-certified-penetration-testing-specialist).
+I'm currently writing a code [Interpreter in Go](https://github.com/Teebs99/Interpreter), and starting [HackTheBox's penetration testing certification](https://academy.hackthebox.com/preview/certifications/htb-certified-penetration-testing-specialist).\
 
 I am also working on building Atlantis, a discovery tool used by Attorneys to help process thousands of documents of evidence and create strong cases for their clients.
 
