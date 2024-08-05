@@ -5,27 +5,10 @@ I write code in C#, Python, and Go, and love solving complex problems!
 
 ## Professional Projects
 ---
-I am currently working on building [Nostr products](https://www.relayfoundry.com/) and building interactive blockchain products at [VeeFriends](veefriends.com) 
+I currently work at [Emarsys](https://emarsys.com/) transforming products from our first-party data center to the cloud.
 
 ### Responsibilities
-#### VeeFriends
-- Write and manage our APIs and back-end systems.
-- Train interns on our system design and API patterns
-- Manage database and data
-- Implement and upgrade features for over 5 different products including our [in-house video meeting](https://meet.veefriends.com/), [NFT token burner](https://veefriends.com/burn-island), NFT token authentication system, and many others.
-
-#### RelayFoundry
-- Design and implement infrastructure
-- Oversee and manage a small development team
-- Design product functionality
-- Deliver reports to CTO
-
-
-## Passion Projects
----
-I'm currently writing a code [Interpreter in Go](https://github.com/Teebs99/Interpreter), and starting [HackTheBox's penetration testing certification](https://academy.hackthebox.com/preview/certifications/htb-certified-penetration-testing-specialist).
-
-I am also working on building Atlantis, a discovery tool used by Attorneys to help process thousands of documents of evidence and create strong cases for their clients.
-
-
-
+#### Emarsys
+- Coordinate with teams to lift and shift our flagship product to create automated environments in the cloud.
+- Decide how the organization will collect telemetry data across 50+ internal tools, reducing cost by ~70%.
+- Monitor the organization's telemetry migration, and create internal tools that saved over 200 development hours.
